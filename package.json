@@ -1,0 +1,26 @@
+{
+  "name": "react-spawn",
+  "description": "Stubs for react apps",
+  "version": "0.0.10",
+  "author": "Emiliano Bovetti",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/emilianobovetti/react-spawn#readme",
+  "bin": {
+    "spawn": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianobovetti/react-spawn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emilianobovetti/react-spawn/issues"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true,
+    "arrowParens": "avoid"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
