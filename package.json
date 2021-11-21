@@ -21,6 +21,8 @@
     "singleQuote": true,
     "arrowParens": "avoid"
   },
-  "dependencies": {},
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
   "devDependencies": {}
 }
